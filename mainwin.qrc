@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/gascop.png</file>
+        <file>files/gascop.db.lck</file>
+        <file>files/pagerid.db.lck</file>
+        <file>files/pagerid.db</file>
+        <file>files/prev-pages.txt</file>
+        <file>files/gascop.db</file>
+    </qresource>
+</RCC>

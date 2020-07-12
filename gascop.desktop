@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+GenericName=Application to generate pocsag paging data using the PC sound card.
+Categories=Network;HamRadio;
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Icon=/usr/share/pixmaps/gascop.png
+Name=gascop
+Exec=gascop
