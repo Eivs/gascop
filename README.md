@@ -4,3 +4,5 @@
 
 
 Gascop Paging Encoder from http://winpe.com/gascop/
+
+By Clive Cooper.
